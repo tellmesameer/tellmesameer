@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Usman</h1>
+<h1 align="center">Hi 👋, I'm Sameer.</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/sameer355us" target="blank"><img src="https://img.shields.io/twitter/follow/sameer355us?logo=twitter&style=for-the-badge" alt="sameer355us" /></a> </p>
