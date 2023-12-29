@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/sameer355us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameer355us" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohd usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd usman" height="30" width="40" /></a>
-<a href="https://instagram.com/sameer.4me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer.4me" height="30" width="40" /></a>
+<a href="https://instagram.com/sameer355u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer.4me" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sameer1108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sameer1108" height="30" width="40" /></a>
 </p>
 
