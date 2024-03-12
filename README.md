@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/sameer355us" target="blank"><img src="https://img.shields.io/twitter/follow/sameer355us?logo=twitter&style=for-the-badge" alt="sameer355us" /></a> </p>
 
-- 🔭 I’m currently working on [Move Files](https://github.com/sameer355u/Move_Files)
+- 🔭 I’m currently working on [Move Files](https://github.com/tellmesameer/Move_Files)
 
 - 🌱 I’m currently learning **Azure Services, Web Development with IICS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sameer355u](https://github.com/sameer355u)
+- 👨‍💻 All of my projects are available at [https://github.com/tellmesameer](https://github.com/tellmesameer)
 
 - 💬 Ask me about **Python**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sameer355us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameer355us" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohd usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd usman" height="30" width="40" /></a>
-<a href="https://instagram.com/sameer355u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer.4me" height="30" width="40" /></a>
+<a href="https://twitter.com/tellmesameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameer355us" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tellmesameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd usman" height="30" width="40" /></a>
+<a href="https://instagram.com/tellmesameer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer.4me" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sameer1108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sameer1108" height="30" width="40" /></a>
 </p>
 
